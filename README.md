@@ -22,3 +22,4 @@ Contract ABI:
 
 * https://karl.tech/intro-guide-to-ethereum-testnets/
 * https://www.myetherwallet.com/
+* http://faucet.ropsten.be:3001/
