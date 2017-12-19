@@ -6,7 +6,7 @@ Confirm your application by interacting with our HR smart contract on the Ethere
 * Retrieve your application ID using the “hasApply” function.
 * Copy your application ID and paste it in the application form.
 
-<sup>(*)</sup> :warning: Ropsten is a tesnet network, you do not need real Ether.
+<sup>(*)</sup> :warning: Ropsten is a testnet network, you do not need real Ether.
 
 ### Additional information
 
