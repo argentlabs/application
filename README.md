@@ -17,3 +17,8 @@ Contract ABI:
 ```
 [{"constant": true,"inputs": [{"name": "email","type": "string"}],"name": "hasApplied","outputs": [{"name": "","type": "uint256"}],"payable": false,"stateMutability": "view","type": "function"},{"constant": false,"inputs": [{"name": "hash","type": "bytes32"}],"name": "apply","outputs": [{"name": "","type": "uint256"}],"payable": false,"stateMutability": "nonpayable","type": "function"}]
 ```
+
+### Usefull links
+
+* https://karl.tech/intro-guide-to-ethereum-testnets/
+* https://www.myetherwallet.com/
