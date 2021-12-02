@@ -2,7 +2,7 @@
 
 Confirm your application by interacting with our HR smart contract on the Ethereum Ropsten network:
 
-1. Submit a hash (Keccak-256) of your email address using the `apply()` function.
+1. Submit a hash (Keccak-256) of your email address using the `applyUsingEmail()` function.
 2. Retrieve your application ID using the `getApplicationID()` function.
 3. Copy your application ID and paste it in the application form.
 
@@ -12,10 +12,5 @@ Confirm your application by interacting with our HR smart contract on the Ethere
 
 Contract address: 
 ```
-0xcbbfbafedb0eb83016d2a96a4e80d30b20fa3e30
-```
-
-Contract ABI: 
-```
-[{"constant": false,"inputs": [{"name": "hash","type": "bytes32"}],"name": "apply","outputs": [],"payable": false,"stateMutability": "nonpayable","type": "function"},{"constant": true,"inputs": [{"name": "email","type": "string"}],"name": "getApplicationID","outputs": [{"name": "","type": "uint256"}],"payable": false,"stateMutability": "view","type": "function"}]
+0x78D36BA446D73Be73f32e2Cc181A82E3ba5fEf2E
 ```
